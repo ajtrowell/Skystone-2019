@@ -6,6 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/Kao/Kao.iml" filepath="$PROJECT_DIR$/Kao/Kao.iml" />
       <module fileurl="file://$PROJECT_DIR$/missioncontrol/MissionControl.iml" filepath="$PROJECT_DIR$/missioncontrol/MissionControl.iml" />
       <module fileurl="file://$PROJECT_DIR$/Skystone-2019.iml" filepath="$PROJECT_DIR$/Skystone-2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Skystone16626-2019.iml" filepath="$PROJECT_DIR$/Skystone16626-2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/Skystone16626-2019-FtcRobotController.iml" filepath="$PROJECT_DIR$/FtcRobotController/Skystone16626-2019-FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kao/Skystone16626-2019-Kao.iml" filepath="$PROJECT_DIR$/Kao/Skystone16626-2019-Kao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MissionControl/Skystone16626-2019-MissionControl.iml" filepath="$PROJECT_DIR$/MissionControl/Skystone16626-2019-MissionControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeamCode/Skystone16626-2019-TeamCode.iml" filepath="$PROJECT_DIR$/TeamCode/Skystone16626-2019-TeamCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeamCode/TeamCode.iml" filepath="$PROJECT_DIR$/TeamCode/TeamCode.iml" />
     </modules>
   </component>
